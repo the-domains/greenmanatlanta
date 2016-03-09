@@ -1,7 +1,7 @@
 name: GreenManAtlanta
 favicon: null
-layout_spectrum: 0.5378875799942762
-typography_spectrum: 0.0649507874622941
+layout_spectrum: 0
+typography_spectrum: 0.61293
 title: Green Man Atlanta
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8243073271587491
-  lightness: 0.36143678333610296
-  saturation: 0.7304368978366256
-  rhythmicContrast: 0.11977591877803206
+    - '#ffffff'
+    - '#b8b3ad'
+    - '#141609'
+    - '#4a4330'
+    - '#b36300'
+  brandStrength: 0.625
+  lightness: 0.875
+  saturation: 0.625
+  rhythmicContrast: 0
 purpose: []
